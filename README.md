@@ -2,7 +2,10 @@
 
 ## Intro
 This Python code is created to understand discussions on Twitter around local governments during the COVID-19 pandemic. Analyses were conduced on Twitter data collected from four U.S. cities: New York City, Los Angeles, San Diego, and Detroit. 
-Research Questions include: 'What are the topics of conversation around local government?' (LDA topic modeling), 'How do the topics of tweets differ between the four cities?' (PMI word clouds), and 'What are the sentiments of Tweets regarding local governments?' (sentiment analysis). 
+Research Questions include:
+What are the topics of conversation around local government? (LDA topic modeling),
+How do the topics of tweets differ between the four cities? (PMI word clouds), and 
+What are the sentiments of Tweets regarding local governments? (sentiment analysis). 
 
 ## Technology
 Project is created with:
